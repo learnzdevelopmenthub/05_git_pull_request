@@ -1,3 +1,5 @@
 Steps
 
 1. login feature is completed.
+
+2. added login with username as well
